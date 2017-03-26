@@ -1,4 +1,4 @@
-# Python + MongoDB async web app
+# Python + MongoDB async REST web app
 
 Uses `aiohttp` async web framework, `motor` async MongoDB engine and `cerberus`
 for schema validation.
