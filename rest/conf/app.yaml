@@ -1,0 +1,8 @@
+---
+app:
+  host: localhost
+  port: 8080
+db:
+  database: rest-app
+  port: 27017
+  host: 127.0.0.1
